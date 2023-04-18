@@ -35,6 +35,9 @@ I am an aspiring software engineer who decided to make the transition from Teach
   
 <!-- TypeScript -->
 <img src='https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white' />
+  
+<!-- SQL -->
+<img src='https://shields.io/badge/SQL-000000?style=for-the-badge&logo=SQL&logoColor=white' />
                                                                                                    
 <!-- Node.js -->
 <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' /> 
