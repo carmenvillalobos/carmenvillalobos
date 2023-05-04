@@ -12,9 +12,9 @@ I am an aspiring software engineer who decided to make the transition from Teach
 
 ✅ Open to job opportunities and collaborations
 
-<!--
-💻 Link to my portfolio website parkervanevery.com
+💻 Link to my portfolio website: https://main.d2czx6etbxeuzg.amplifyapp.com/
 
+<!--
 ⬇️ Check out two of my larger projects here ⬇️
 
 🍕 REST-Rant Restaurant Review App https://pumpkin-tart-95991.herokuapp.com/
