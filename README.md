@@ -2,7 +2,7 @@
 
 ### Software Engineer
 
-I am an aspiring software engineer who decided to make the transition from Teaching to Technology. I am a recent graduate of the Full-Stack Development Program through San Diego State's Global Campus, and I am actively seeking Full-Stack or Back-end software engineering opportunities! I currently live in San Diego, CA, but I am open to remote, hybrid, or in person work. I prefer working with JavaScript, Python, and TypeScript but I am willing to learn any programming languages or libraries that the job may require. Feel free to connect with me through email/LinkedIn or viewing my projects through my Github account.
+I am an aspiring software engineer who decided to make the transition from Teaching to Technology. I am a recent graduate of the Full-Stack Development Program through San Diego State's Global Campus, and I am actively seeking Full-Stack or Back-end software engineering opportunities! I currently live in San Diego, CA, but I am open to remote, hybrid, or in person work. I prefer working with React, JavaScript, Python, and TypeScript but I am willing to learn any programming languages, libraries, or frameworks that the job may require. Feel free to connect with me through email/LinkedIn or viewing my projects through my Github account.
 
 📫 You can contact me at carmvilla15@gmail.com or
   <a href="https://www.linkedin.com/in/carmen-villalobos-11a829237/">
