@@ -12,18 +12,22 @@ I am an aspiring software engineer who decided to make the transition from Teach
 
 ✅ Open to job opportunities and collaborations
 
-💻 Link to my portfolio website: https://main.d2czx6etbxeuzg.amplifyapp.com/
+#### Portfolio
+
+💻 https://main.d2czx6etbxeuzg.amplifyapp.com/
+
+#### Projects
+
+👾 JavaScript Web Game: https://main.d2tgw1k41cylr3.amplifyapp.com/
 
 <!--
 ⬇️ Check out two of my larger projects here ⬇️
 
 🍕 REST-Rant Restaurant Review App https://pumpkin-tart-95991.herokuapp.com/
-
-🎮 JS fighting game deployed here https://pdvanevery.github.io/Midterm-Project-1/
 -->
 
 
-⬇️ Some skills I use when developing ⬇️
+#### Technology Skills
 
 <div id="badges">
 
