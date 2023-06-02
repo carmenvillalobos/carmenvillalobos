@@ -4,27 +4,24 @@
 
 I am an aspiring software engineer who decided to make the transition from Teaching to Technology. I am a recent graduate of the Full-Stack Development Program through San Diego State's Global Campus, and I am actively seeking Full-Stack or Back-end software engineering opportunities! I currently live in San Diego, CA, but I am open to remote, hybrid, or in person work. I prefer working with React, JavaScript, Python, and TypeScript but I am willing to learn any programming languages, libraries, or frameworks that the job may require. Feel free to connect with me through email/LinkedIn or viewing my projects through my Github account.
 
-📫 You can contact me at carmvilla15@gmail.com or
-  <a href="https://www.linkedin.com/in/carmen-villalobos-11a829237/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+📫 You can contact me at carmvilla15@gmail.com or through
+  <a href="https://www.linkedin.com/in/carmen-villalobos-11a829237/">LinkedIn</a>
  
-
 ✅ Open to job opportunities and collaborations
 
 #### Portfolio
 
-💻 https://main.d2czx6etbxeuzg.amplifyapp.com/
+💻 Click <a href="https://main.d2czx6etbxeuzg.amplifyapp.com/">here</a> to view my portfolio!
 
 #### Projects
 
-👾 JavaScript Web Game: https://main.d2tgw1k41cylr3.amplifyapp.com/
-
-<!--
-⬇️ Check out two of my larger projects here ⬇️
-
-🍕 REST-Rant Restaurant Review App https://pumpkin-tart-95991.herokuapp.com/
--->
+<div>
+  ✈️ <a href="">Travel Booking Site</a>
+</div>
+<div>
+  📝 <a href="">To Do List Site</a>
+</div>
+👾 <a href="https://main.d2tgw1k41cylr3.amplifyapp.com/">JavaScript Web Game</a>
 
 
 #### Technology Skills
