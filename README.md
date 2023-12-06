@@ -11,7 +11,7 @@ I am full-stack software engineer/developer intern who decided to make the trans
 
 #### Portfolio
 
-💻 Click <a href="https://main.d2czx6etbxeuzg.amplifyapp.com/">here</a> to view my portfolio!
+🖱️ Click <a href="https://main.d2czx6etbxeuzg.amplifyapp.com/">here</a> to view my portfolio!
 
 #### Projects
 
