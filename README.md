@@ -11,7 +11,7 @@ I am full-stack software engineer/developer intern who decided to make the trans
 
 #### Portfolio
 
-🖱️ Click <a href="https://main.d2czx6etbxeuzg.amplifyapp.com/">here</a> to view my portfolio!
+💻 Click <a href="https://main.d2czx6etbxeuzg.amplifyapp.com/">here</a> to view my portfolio!
 
 #### Projects
 
@@ -35,6 +35,15 @@ I am full-stack software engineer/developer intern who decided to make the trans
 <img src='https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=python&logoColor=white' />
   
 <!-- TypeScript -->
+<img src='https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white' />
+
+<!-- SwiftUI -->
+<img src='https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white' />
+
+<!-- Figma -->
+<img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' />
+
+<!-- Google Cloud Platform -->
 <img src='https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white' />
   
 <!-- SQL -->
