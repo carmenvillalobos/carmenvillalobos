@@ -2,7 +2,7 @@
 
 ### Software Engineer
 
-I am full-stack software engineer/developer intern who decided to make the transition from teaching👩🏻‍🏫 to technology👩🏻‍💻. I am actively seeking for a Full-stack or Back-end software engineering full time job. I currently live in San Diego, CA, but I am open to remote, hybrid, or in person work. I prefer working with React, SwiftUI, Node.js, and Express.js frameworks, but I am willing to learn any programming language, library, or framework that the job may require. Feel free to connect with me through email/LinkedIn or viewing my projects through my Github account.
+I am full-stack software engineer/developer who decided to make the transition from teaching to technology.👩🏻‍💻 I am actively seeking for new opportunities within the software development space to help me grow within my profession. I currently live in San Diego, CA, but I am open to remote, hybrid, or in person work. I currently use ASP.NET (C#, Core, MVC, Razor, Bootstrap) and Microsoft SQL Server at my current job, but I am proficient in JavaScript (React.js, Node.js, Express.js, TypeScript), Python, SQL (T-SQL), Swift/SwiftUI, SCSS, CSS, and HTML5. However, I am willing to learn any programming language, library, or framework that the job may require. Feel free to connect with me through email or LinkedIn, and check out my projects on GitHub!
 
 📫 You can contact me at carmvilla15@gmail.com or through
   <a href="https://www.linkedin.com/in/carmen-villalobos-11a829237/">LinkedIn</a>
@@ -11,22 +11,28 @@ I am full-stack software engineer/developer intern who decided to make the trans
 
 #### Portfolio
 
-💻 Click <a href="https://main.d2czx6etbxeuzg.amplifyapp.com/">here</a> to view my portfolio!
+💻 Click <a href="https://carmenvillalobosportfolio.netlify.app">here</a> to view my portfolio!
 
 #### Projects
 
 <div>
-  ✈️ <a href="">Travel Booking Site</a>
+  ✈️ <a href="https://github.com/carmenvillalobos/Milestone_Project_3.git">Travel Booking Site</a>
 </div>
 <div>
-  📝 <a href="">To Do List Site</a>
+  📝 <a href="https://github.com/carmenvillalobos/Milestone-Project-2.git">To Do List Site</a>
 </div>
-👾 <a href="https://main.d2tgw1k41cylr3.amplifyapp.com/">JavaScript Web Game</a>
+👾 <a href="https://github.com/carmenvillalobos/mileStoneProject1">JavaScript Web Game</a>
 
 
 #### Technology Skills
 
 <div id="badges">
+
+<!-- ASP.NET -->
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+
+<!-- Microsoft SQL Server -->
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
 <!-- JavaScript -->
 <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' />
