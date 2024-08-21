@@ -28,7 +28,7 @@ I am full-stack software engineer/developer who decided to make the transition f
 
 <div id="badges">
 
-<!-- ASP.NET -->
+<!-- C# -->
 <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
 <!-- Microsoft SQL Server -->
